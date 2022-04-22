@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: わかばやしのホームページ
 description: GitHub Pagesで作りました
-logo: /assets/logo.png
+logo: /logo.png
+gems:
+  - jekyll-sitemap
